@@ -1,0 +1,24 @@
+.services{
+    width: 1000px;
+    height: 900px;
+    background-color:white;
+}
+.test{
+ width:280px;
+ height:280px;
+ text-align: center;
+float: left;
+background-color:white;
+}
+.vip{
+    width:830px;
+    height: 150px;
+    text-align: center;
+    background-color:white;
+}
+.tt{
+    color: chocolate;
+}
+.clearfix{
+    clear: both;
+}
